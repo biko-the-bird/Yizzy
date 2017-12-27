@@ -1,0 +1,26 @@
+Steps to download audio from a youtube video using yizzy.py
+
+0.double click the file labeled 'INSTALL.command'. This needs to only be run the first time you want to use Yizzy
+
+1.double click the file labeled 'yizzy.command'
+
+2. In the window that pops up paste the full link (i.e. https://www.youtube.com/watch?v=j0kJdrfzjAg) into the box.
+
+3. Press download
+
+4. Process has finished when something appears next to 'command executed:' (I.e. youtube-dl -x --audio-format https://www.youtube.com/watch?v=j0kJdrfzjAg)
+
+5.double click the file ends in mp3 this should open iTunes, if the song starts playing but iTunes doesn't open click the iTunes icon (the music note) in the dock or applications folder or launchpad(the rocket ship in the dock)
+
+6. locate the song that has the same name as the file you opened and right click (or control click) it. It should have a speaker icon next to it.
+
+7. Press 'get info'
+
+8. Change the name of the song, and artist to the correct names
+
+9. Press enter
+
+10. Delete the file that ends in mp3 from the DOWNLOAD_MUSIC folder.
+
+11. quit the yizzy window by pressing the red x.
+
