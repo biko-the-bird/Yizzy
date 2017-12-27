@@ -36,7 +36,11 @@ Made with
 ---------
 
 -youtube-dl --> https://github.com/rg3/youtube-dl
+
 -home-brew --> https://brew.sh/
+
 -libav --> https://www.libav.org/
+
 -tkinter --> http://www.tkdocs.com/index.html
+
 -python3 --> https://www.python.org/
