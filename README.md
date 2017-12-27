@@ -12,6 +12,8 @@ Install
 
 -double click the file labeled INSTALL.command
 
+-If a window pops up saying the program can't be run because it is from a unidentified developer go to System Preferences->Security & Privacy. Select 'Open Anyway'. 
+
 -enter your password when prompted to install the dependencies (homebrew, youtube-dl, libav, python3, tkinter)
 
 -when the process has completed close the terminal window that opened.
@@ -19,6 +21,8 @@ Install
 Usage
 -------
 -double click the file labeled yizzy.command to open Yizzy.
+
+-If a window pops up saying the program can't be run because it is from a unidentified developer go to System Preferences->Security & Privacy. Select 'Open Anyway'. This step will only need to be done once
 
 -Paste the link (i.e. https://www.youtube.com/watch?v=gncW1zqMFgs) into the box.
 
