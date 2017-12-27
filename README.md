@@ -6,14 +6,14 @@ Basic GUI for youtube-dl
 
 Currently only tested on OSX. It may work on other UNIX. It probably won't work on Windows right now but feel free to try.
 
-#Install
+Install
 --------
 -Clone this repo or download the zip
 -double click the file labeled INSTALL.command
--enter your password when prompted to install the dependencies (homebrew, youtube-dl, libav, python3)
+-enter your password when prompted to install the dependencies (homebrew, youtube-dl, libav, python3, tkinter)
 -when the process has completed close the terminal window that opened.
 
-#Usage
+Usage
 -------
 -double click the file labeled yizzy.command to open Yizzy.
 -Paste the link (i.e. https://www.youtube.com/watch?v=gncW1zqMFgs) into the box.
@@ -22,3 +22,5 @@ Currently only tested on OSX. It may work on other UNIX. It probably won't work 
 -you should find your new file in the same folder as yizzy.command and INSTALL.command
 -If its a audio file when you open it in iTunes you'll want to right click it (in iTunes) and select get-info so you can update the name and artist of the song.
 -obsitante rigore
+
+Made with: youtube-dl, home-brew, tkinter, libav, and python3
