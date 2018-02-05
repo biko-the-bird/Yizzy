@@ -48,3 +48,8 @@ Made with
 -tkinter --> http://www.tkdocs.com/index.html
 
 -python3 --> https://www.python.org/
+
+Disclaimer
+-------
+
+By using Yizzy you agree that you are soley responsible for your actions. You agree that the developers of Yizzy are not liable, responsible, or connected to your actions with Yizzy. You further agree to only download content that you have the right to download.
